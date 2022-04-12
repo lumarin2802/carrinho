@@ -1,11 +1,14 @@
 # carrinho
-Teste Carrinho 🛒
+** Teste Carrinho 🛒
+**
 
-#Objetivos#
+Objetivos
+
+**
 🛒 Desenvolver um carrinho de compras usando uma API
 🛒 Listar os produtos, exibir o total da compra, e exibir uma mensagem informando se o pedido possui frete grátis
 
-#Requisitos Mínimos#
+Requisitos Mínimos
 
 🛒 Listar os produtos provenientes da API
 🛒 Os produtos devem ter imagem, nome e preco
@@ -13,6 +16,5 @@ Teste Carrinho 🛒
 🛒 Exibir o texto de frete grátis dependendo do valor do carrinho
 🛒 O texto de frete grátis deverá aparecer apenas se o valor for acima de R$10.00
 
-
-Alem das funcionalidades solicitadas foi adicionado um botao "Remover" produtos do carrinho e 
-introduzir cep. 
+Alem das funcionalidades solicitadas foi adicionado um botao “Remover” produtos do carrinho e
+introduzir cep.
